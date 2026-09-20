@@ -14,9 +14,9 @@ Web Responsive
    !! source digest: sha256:cdfbec36e2e1aa83b9b44b34c64aa769b2d50867da82f88fc5c817fa641c2f9c
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-.. |badge1| image:: https://img.shields.io/badge/maturity-Production%2FStable-green.png
+.. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
     :target: https://odoo-community.org/page/development-status
-    :alt: Production/Stable
+    :alt: Beta
 .. |badge2| image:: https://img.shields.io/badge/license-LGPL--3-blue.png
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
@@ -39,7 +39,7 @@ Web Responsive
    courtesy from the Maxdoo Team on behalf of Benedito Monteiro, meanwhile the official
    OCA version for Odoo 20 is not released. All original authors, copyrights and the
    LGPL-3 license are preserved; once the official version is available, prefer it. The
-   badges and links below refer to the upstream OCA 19.0 project.
+   links below refer to the upstream OCA 19.0 project.
 
 This module adds responsiveness to web backend.
 
