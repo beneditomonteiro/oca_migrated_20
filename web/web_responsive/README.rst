@@ -32,6 +32,15 @@ Web Responsive
 
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
+.. note::
+
+   **Odoo 20 port by the Maxdoo Team.** This is *not* the official OCA version. It is a
+   simple port of OCA/web ``19.0`` (commit ``d3748a6ea5``) to Odoo 20, offered as a
+   courtesy from the Maxdoo Team on behalf of Benedito Monteiro, meanwhile the official
+   OCA version for Odoo 20 is not released. All original authors, copyrights and the
+   LGPL-3 license are preserved; once the official version is available, prefer it. The
+   badges and links below refer to the upstream OCA 19.0 project.
+
 This module adds responsiveness to web backend.
 
 **Features for all devices**:
